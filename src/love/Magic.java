@@ -10,4 +10,9 @@ public class Magic {
 	{
 		System.out.println("God Bless Both of You...!!!");
 	}
+	
+	public void Stars()
+	{
+		System.out.println("Love My Unniverse...!!!");
+	}
 }
