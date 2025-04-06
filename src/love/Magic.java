@@ -8,6 +8,6 @@ public class Magic {
 
 	public void MagicLand()
 	{
-		System.out.println("God Bless You Both of You..!!!");
+		System.out.println("God Bless Both of You...!!!");
 	}
 }
